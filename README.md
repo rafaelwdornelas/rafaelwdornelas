@@ -3,7 +3,8 @@
 ```javascript
 const rafaelwdornelas = {
   🏢: (school) {
-    Alura: 'https://www.alura.com.br/'
+    Alura: 'https://www.alura.com.br/',
+    Impacta: 'https://impacta.com.br/'
   },
   💻: (tools and languages) {
     VisualStudioCode: 'https://code.visualstudio.com/',
