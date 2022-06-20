@@ -1,5 +1,7 @@
-## Bem vindo ao meu perfil GitHub 👋
 
+
+  ## Bem vindo ao meu perfil GitHub 👋
+  
 ```javascript
 const rafaelwdornelas = {
   🏢: (school) {
@@ -29,7 +31,7 @@ const rafaelwdornelas = {
 <p><br></p>
 <center>
 <a href="https://github.com/rafaelwdornelas">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelwdornelas&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/><img src="coder.svg" height="150em"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelwdornelas&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelwdornelas&layout=compact&langs_count=8&theme=bear"/>
 </a>
 
