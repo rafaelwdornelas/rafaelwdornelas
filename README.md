@@ -7,7 +7,8 @@ const rafaelwdornelas = {
   🏢: (school) {
     Alura: 'https://www.alura.com.br/',
     Impacta: 'https://impacta.com.br/',
-    Udemy: 'https://www.udemy.com/'
+    Udemy: 'https://www.udemy.com/',
+    Sec4us: 'https://www.sec4us.com.br/'
   },
   💻: (tools and languages) {
     VisualStudioCode: 'https://code.visualstudio.com/',
