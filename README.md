@@ -15,7 +15,8 @@ const rafaelwdornelas = {
     VisualStudio: 'https://visualstudio.microsoft.com/',
     Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
     NextJS: 'https://nextjs.org/',
-    NodeJS: 'https://nodejs.org',
+    NodeJS: 'https://nodejs.org/',
+    Golang: 'https://go.dev/',
     VbNet: 'https://docs.microsoft.com/dotnet/visual-basic/',
     Sequelize: 'https://sequelize.org/',
     Git: 'https://git-scm.com/'
