@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- Header animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Rafael+W.+Dornelas;Full+Stack+Developer;Security+Researcher;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Rafael+W.+Dornelas;Full+Stack+Developer;Security+Researcher;Bug+Hunter+%F0%9F%90%9B)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/rafaelwdornelas/rafaelwdornelas/main/coder.svg" width="120">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rafaelwdornelas&color=00d9ff&style=for-the-badge&label=VISITORS)](https://github.com/rafaelwdornelas)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/rafaelwdornelas)
 
 </div>
 
@@ -20,9 +21,10 @@ name: Rafael W. Dornelas
 role: Full Stack Developer & Security Researcher
 location: Brazil 🇧🇷
 focus:
-  - Building scalable applications
-  - Offensive security research
-  - Open source contributions
+  - Offensive Security Research
+  - Vulnerability Assessment
+  - Building Security Tools
+  - Bug Bounty Hunting
 motto: "Code is like humor. When you have to explain it, it's bad."
 ```
 
@@ -50,29 +52,43 @@ motto: "Code is like humor. When you have to explain it, it's bad."
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**IDEs**
+**Security**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-7F52FF?style=for-the-badge&logo=nuclei&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🔐 Security Tools
 
 <div align="center">
 
-| Project | Description | Tech |
-|:-------:|:------------|:----:|
-| [**Goshield**](https://github.com/rafaelwdornelas/goshield) | Advanced Go Source Code Obfuscator | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**SistemaDB**](https://github.com/rafaelwdornelas/sistemadb) | Database management system with security features | ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| [**Mail Sender**](https://github.com/rafaelwdornelas/Mail-Sender-Mult-Servers) | Multi-server email distribution with load balancing | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**SQLiNode**](https://github.com/rafaelwdornelas/SQLiNode) | SQL injection testing & security tool | ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| [**GlobalScrapingExploit**](https://github.com/rafaelwdornelas/GlobalScrapingExploit) | Intelligent web scraping tool | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+Ferramentas desenvolvidas para pesquisa em segurança ofensiva e testes de penetração.
 
 </div>
+
+| Project | Description | Tech |
+|:-------:|:------------|:----:|
+| [**Goshield**](https://github.com/rafaelwdornelas/goshield) | 🛡️ Advanced Go Source Code Obfuscator - Protege código Go contra engenharia reversa | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**PersistenceGo**](https://github.com/rafaelwdornelas/PersistenceGo) | 🔄 50 técnicas de persistência no Windows via registro e outros mecanismos | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**Gowpscanner**](https://github.com/rafaelwdornelas/Gowpscanner) | 🔍 Scanner de vulnerabilidades e configurações expostas em WordPress | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**SQLiNode**](https://github.com/rafaelwdornelas/SQLiNode) | 💉 Ferramenta para testes de SQL Injection | ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| [**my-nuclei-templates**](https://github.com/rafaelwdornelas/my-nuclei-templates) | 📋 Templates customizados para Nuclei Scanner (Firebase, etc) | ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) |
+| [**GlobalScrapingExploit**](https://github.com/rafaelwdornelas/GlobalScrapingExploit) | 🌐 Advanced web scraping com extração inteligente de dados | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+---
+
+### 🛠️ Utilities & Infra
+
+| Project | Description | Tech |
+|:-------:|:------------|:----:|
+| [**clearlistpingsmtp**](https://github.com/rafaelwdornelas/clearlistpingsmtp) | 📧 Verificação de email em massa com suporte a proxy | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**Mail-Sender-Mult-Servers**](https://github.com/rafaelwdornelas/Mail-Sender-Mult-Servers) | 📬 Sistema de envio de email com load balancing multi-servidor | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**SistemaDB**](https://github.com/rafaelwdornelas/sistemadb) | 🗄️ Sistema de gerenciamento de banco de dados e API para ERP | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Foxbit_Bot**](https://github.com/rafaelwdornelas/Foxbit_Bot) | 📈 Bot de trading automatizado para exchange Foxbit | ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ---
 
@@ -96,7 +112,8 @@ motto: "Code is like humor. When you have to explain it, it's bad."
 ```javascript
 const currentFocus = {
   development: ["Golang microservices", "Cloud native architectures"],
-  security: ["Offensive research", "Malware analysis", "Red team ops"],
+  security: ["Red Team Operations", "Malware Analysis", "Exploit Development"],
+  certifications: ["Sec4us", "Offensive Security"],
   always: "Becoming better than yesterday"
 };
 ```
@@ -111,6 +128,7 @@ const currentFocus = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelwdornelas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelwdornelas)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/rafaelwdornelas)
 
 </div>
 
