@@ -216,25 +216,17 @@
 ### 📊 Threat Telemetry — GitHub Activity
 
 <a href="https://github.com/rafaelwdornelas">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelwdornelas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwdornelas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelwdornelas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelwdornelas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=320"/>
 </a>
 
 <a href="https://github.com/rafaelwdornelas">
 <img height="165em" src="https://streak-stats.demolab.com?user=rafaelwdornelas&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00ff41&currStreakLabel=00d9ff&sideNums=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelwdornelas&show=reviews,prs,issues,discussions_started&exclude_repo=rafaelwdornelas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d00ff&icon_color=9d00ff&text_color=c9d1d9&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelwdornelas&show=reviews,prs,issues,discussions_started&exclude_repo=rafaelwdornelas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d00ff&icon_color=9d00ff&text_color=c9d1d9&count_private=true"/>
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelwdornelas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00ff41&area=true&area_color=00d9ff" width="95%"/>
 
-</div>
-
----
-
-### 🏆 Hall of Fame — Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rafaelwdornelas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=8" />
 </div>
 
 ---
@@ -308,11 +300,6 @@ func currentOperations() []Objective {
 <a href="https://github.com/rafaelwdornelas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rafaelwdornelas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://hackerone.com/rafaelwdornelas"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-
-<br><br>
-
-<!-- Snake animation -->
-<img src="https://github.com/rafaelwdornelas/rafaelwdornelas/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
 
 <br><br>
 
